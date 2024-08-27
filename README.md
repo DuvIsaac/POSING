@@ -24,6 +24,11 @@ Process(target=capture_and_process, args=(1, 0))
 
 ---
 
+<p align="center"> 
+  <img src="/img/Fireboy and Watergirl.png" align="center" height="400">  
+  <img src="/img/snake_io.png" align="center" height="400">  
+</p>
+
 <img
   src="/img/Fireboy and Watergirl.png"
   height="400"

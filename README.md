@@ -6,7 +6,7 @@ Process(target=capture_and_process, args=(1, 0))
 ```
 `args=(1, 0)` (켐 번호, 커멘드 번호) 
 
-#### 커멘드 번호
+### 커멘드 번호
 - 0  
   물불게임(불)  
   'up', 'left', 'right'  
@@ -21,3 +21,17 @@ Process(target=capture_and_process, args=(1, 0))
 - 3  
   snake.io  
   손 위치로 마우스 포인터 제어  
+
+---
+
+<img
+  src="/img/Fireboy and Watergirl.png"
+  width="100"
+  height="200"
+/>
+
+<img
+  src="/img/snake_io.png"
+  width="100"
+  height="200"
+/>

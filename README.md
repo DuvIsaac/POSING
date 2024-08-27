@@ -26,7 +26,7 @@ Process(target=capture_and_process, args=(1, 0))
 
 <img
   src="/img/Fireboy and Watergirl.png"
-  height="200"
+  height="40%"
 />
 
 <img

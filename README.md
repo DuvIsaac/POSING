@@ -26,12 +26,10 @@ Process(target=capture_and_process, args=(1, 0))
 
 <img
   src="/img/Fireboy and Watergirl.png"
-  width="100"
   height="200"
 />
 
 <img
   src="/img/snake_io.png"
-  width="100"
   height="200"
 />
